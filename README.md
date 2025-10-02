@@ -1,3 +1,2 @@
-# rocky
-<br>
-this is my first repo
+# ROCKY
+This is my first Repository.
